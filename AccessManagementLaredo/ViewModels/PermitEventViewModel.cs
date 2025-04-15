@@ -18,7 +18,7 @@ namespace AccessManagementLaredo.ViewModels
         //public string UserRoleId { get; set; }
         public string UserRoleName { get; set; }
         public string EventComment { get; set; }
-        public string StatusCode { get; set; }
-        public string StatusName { get; set; }
+        //public string StatusCode { get; set; }
+        //public string StatusName { get; set; }
     }
 }
